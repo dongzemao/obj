@@ -1,4 +1,5 @@
 package main
+
 import (
 	"fmt"
 )
@@ -16,7 +17,7 @@ func main() {
 	// bytes := []byte(str)
 	// a := fmt.Println
 	// test()
-	// a(a, bytes)
+	// a(a, bytes)111
 	aaa := aaabbb{1, "str1"}
 	aa := aaa.(abc)
 	fmt.Println(aaa, aa)
